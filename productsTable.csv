@@ -1,0 +1,11 @@
+item_id,product_name,department_name,price,stock_quantity
+1,TV,Electronics,400.00,2
+2,Iron,Electronics,50.50,7
+3,"Protien Bars",Food,2.95,30
+4,Eggs,Food,2.99,20
+5,Rice,Food,2.50,13
+6,Laptop,Electronics,350.75,5
+7,"Ice Cream",Frozen,1.99,12
+8,Hammer,Utilities,19.99,5
+9,Clock,Utilities,15.99,6
+10,"Cell Phone",Electronics,699.99,10
